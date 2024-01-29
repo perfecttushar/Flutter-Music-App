@@ -1,4 +1,4 @@
-# music
+# BeatBurst
 
 A new Flutter project.
 
